@@ -6,14 +6,11 @@
 
 **Thoughts:** React handles complex multi-page application, therefore the framework itself is also complex. I hope you can follow along this course.
 
-### Day 2: February 30, 2016
+### Day 2: July 1, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: reviewed React's compound component with children
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Thoughts**: Don't be scared by new concepts. It will become second nature one day.
 
 ### Day 3: June 27, Monday
 
