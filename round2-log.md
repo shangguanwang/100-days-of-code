@@ -12,12 +12,8 @@
 
 **Thoughts**: Don't be scared by new concepts. It will become second nature one day.
 
-### Day 3: June 27, Monday
+### Day 3: July 2, 2023
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Reviewed Grind75 1-4 with study group
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** It's so easy to forget how to solve those questions after a certain period.
