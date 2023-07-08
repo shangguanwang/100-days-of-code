@@ -17,3 +17,15 @@
 **Today's Progress**: Reviewed Grind75 1-4 with study group
 
 **Thoughts** It's so easy to forget how to solve those questions after a certain period.
+
+### Day 4: July 5, 2023
+
+**Today's Progress**: Reviewed Grind75 5-8 with study group
+
+**Thoughts** Study group is very effective to keep each other accountable.
+
+### Day 5: July 7, 2023
+
+**Today's Progress**: Reviewed Grind 75 Q11 Balanced Binary Tree
+
+**Thoughts** Took me an hour to fully understand this problem. Finding an intuitive solution and breaking each line into smaller digestible parts helped.
