@@ -29,3 +29,9 @@
 **Today's Progress**: Reviewed Grind 75 Q11 Balanced Binary Tree
 
 **Thoughts** Took me an hour to fully understand this problem. Finding an intuitive solution and breaking each line into smaller digestible parts helped.
+
+### Day 5: July 9, 2023
+
+**Today's Progress**: Reviewed Grind 75 Q9-12 with the study group, started building the e-commerce react project
+
+**Thoughts** Youtube has better resources than some paid learning platforms.
