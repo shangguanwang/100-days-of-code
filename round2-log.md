@@ -42,4 +42,4 @@
 
 **Today's Progress**: Continue working on the ecommerce project homepage, finished the Slider and FeaturedProduct card components.
 
-**Thoughts** Youtube has better resources than some paid learning platforms.
+**Thoughts** I learned so many tricks in this single project than any course tutorials. Building projects are the way to advance coding skills exponentially.
