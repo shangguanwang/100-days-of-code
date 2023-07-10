@@ -32,6 +32,14 @@
 
 ### Day 5: July 9, 2023
 
-**Today's Progress**: Reviewed Grind 75 Q9-12 with the study group, started building the e-commerce react project
+**Today's Progress**: 
+- Reviewed Grind 75 Q9-12 with the study group.
+- Started building the e-commerce react project, added Navbar and Footer components
+
+**Thoughts** Youtube has better resources than some paid learning platforms.
+
+### Day 6: July 10, 2023
+
+**Today's Progress**: Continue working on the ecommerce project homepage, finished the Slider and FeaturedProduct card components.
 
 **Thoughts** Youtube has better resources than some paid learning platforms.
