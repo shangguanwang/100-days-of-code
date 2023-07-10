@@ -30,7 +30,7 @@
 
 **Thoughts** Took me an hour to fully understand this problem. Finding an intuitive solution and breaking each line into smaller digestible parts helped.
 
-### Day 5: July 9, 2023
+### Day 6: July 9, 2023
 
 **Today's Progress**: 
 - Reviewed Grind 75 Q9-12 with the study group.
@@ -38,7 +38,7 @@
 
 **Thoughts** Youtube has better resources than some paid learning platforms.
 
-### Day 6: July 10, 2023
+### Day 7: July 10, 2023
 
 **Today's Progress**: Continue working on the ecommerce project homepage, finished the Slider and FeaturedProduct card components.
 
