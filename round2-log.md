@@ -43,3 +43,19 @@
 **Today's Progress**: Continue working on the ecommerce project homepage, finished the Slider and FeaturedProduct card components.
 
 **Thoughts** I learned so many tricks in this single project than any course tutorials. Building projects are the way to advance coding skills exponentially.
+
+### Day 8: July 11, 2023
+
+**Today's Progress**: 
+- E-commerce project: finished the Image Grid and the Contact components. Created the Products Listing page.
+- Reviewed Grind 75 Week2 Question 1-2 First Bad Version & Ransom Note.
+
+**Thoughts** I started to pick up patterns for solving algorithm challenges.
+
+### Day 9: July 12, 2023
+
+**Today's Progress**: 
+- E-commerce project: Created single product view.
+- Grind 75 Study Group: reviewed Week1 Q13, Week 2 Q1-3 together.
+
+**Thoughts** Not feeling well today but still managed to write some code.
