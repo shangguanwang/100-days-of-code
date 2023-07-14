@@ -59,3 +59,19 @@
 - Grind 75 Study Group: reviewed Week1 Q13, Week 2 Q1-3 together.
 
 **Thoughts** Not feeling well today but still managed to write some code.
+
+### Day 10: July 13, 2023
+
+**Today's Progress**: 
+- E-commerce project: Installed SQL and Strapi. Set data structure in Strapi and connected with React via API.
+- Grind 75: Solved W2Q4 Longest Palindrome
+
+**Thoughts** Backend installation was full of bomb, but managed to get it through.
+
+### Day 11: July 14, 2023
+
+**Today's Progress**: 
+- E-commerce project: Fetched data from Strapi, modified Filter in Products page.
+- Grind 75:
+
+**Thoughts** Almost done with the e-commerce project!
