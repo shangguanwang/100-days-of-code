@@ -72,6 +72,26 @@
 
 **Today's Progress**: 
 - E-commerce project: Fetched data from Strapi, modified Filter in Products page.
-- Grind 75:
 
 **Thoughts** Almost done with the e-commerce project!
+
+### Day 12: July 15, 2023
+
+**Today's Progress**: 
+- E-commerce project: Redux shopping cart part done.
+
+### Day 13: July 16, 2023
+
+**Today's Progress**: 
+- Grind 75: studied Week 2 Q4-7 with study group
+- Project: started a new CRUD project to better understand how backend and frontend work together.
+
+**Thoughts** I spent almost 2 hours to understand the single linked list recursive solution.
+
+### Day 14: July 17, 2023
+
+**Today's Progress**: 
+- CRUD Book app: almost done with the tutorial. Took me two hours to get mySQL working right.
+
+**Thoughts** It feels good to see backend and frontend talking to each other.
+
