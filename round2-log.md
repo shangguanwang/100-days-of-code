@@ -95,3 +95,11 @@
 
 **Thoughts** It feels good to see backend and frontend talking to each other.
 
+### Day 15: July 18, 2023
+
+**Today's Progress**: 
+- CRUD Book app: finished my first CRUD app! Even thought it was really simple, it's a stepping stone for more complex fullstack project. I also recorded a short video and added readme.
+- Grind 75: solved leetcode #876 Middle of Linked List.
+
+**Thoughts** Everything will feel so much easier if you are doing it the second time. Keep up the good work.
+
