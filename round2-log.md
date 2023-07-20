@@ -103,3 +103,10 @@
 
 **Thoughts** Everything will feel so much easier if you are doing it the second time. Keep up the good work.
 
+### Day 16: July 19, 2023
+
+**Today's Progress**: 
+- Grind 75: solved leetcode #104 Max Depth of Binary Tree. Studied Week 2 Q8-11 with the study group.
+
+**Thoughts** Excited for the medium-level questions!
+
