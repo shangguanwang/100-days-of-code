@@ -110,3 +110,11 @@
 
 **Thoughts** Excited for the medium-level questions!
 
+### Day 17: July 20, 2023
+
+**Today's Progress**: 
+- Grind 75: solved leetcode #53 Maximum Subarray problem.
+- Starting a new Next.js course on Frontend Master, excited!
+
+**Thoughts** New frameworks are just tools to make life easier, nothing intimidating here.
+
