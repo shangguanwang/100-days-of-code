@@ -118,3 +118,9 @@
 
 **Thoughts** New frameworks are just tools to make life easier, nothing intimidating here.
 
+### Day 18: July 21, 2023
+
+**Today's Progress**: 
+- Continuing the Next.js course, learned about head.tsx and layout.tsx
+
+
