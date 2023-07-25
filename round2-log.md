@@ -122,5 +122,26 @@
 
 **Today's Progress**: 
 - Continuing the Next.js course, learned about head.tsx and layout.tsx
+  
+### Day 19: July 22, 2023
+
+**Today's Progress**: 
+- Continuing the Next.js course
+
+### Day 20: July 23, 2023
+
+**Today's Progress**: 
+- Continuing the Next.js course
+- Grind 75 discussion with study group: week2 Q12 & week 3 Q1-3.
+
+**Thoughts** Medium questions on average would take me an hour to finish. Need to make this a priority in the morning if I want to do two questions a day.
+
+### Day 21: July 25, 2023
+
+**Today's Progress**: 
+- Completed the intro to Next.js course.
+- Solved 2 Grind75 medium problems.
+
+**Thoughts** I got the idea for my next project. 
 
 
