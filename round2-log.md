@@ -144,4 +144,15 @@
 
 **Thoughts** I got the idea for my next project. 
 
+### Day 22: July 26, 2023
+**Today's Progress**: 
+- Grind 75 discussion with study group: week 3 Q4-7
+
+### Day 23: July 27, 2023
+**Today's Progress**: 
+- Leetcode: reviewed 3 old problems.
+- Began the Next.js to-do app project.
+
+
+
 
