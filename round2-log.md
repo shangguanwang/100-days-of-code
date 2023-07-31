@@ -153,6 +153,12 @@
 - Leetcode: reviewed 3 old problems.
 - Began the Next.js to-do app project.
 
+### Day 24: July 30, 2023
+
+**Today's Progress**: 
+- Grind 75 discussion with study group: week3 Q8 & week 4 Q1-3.
+
+**Thoughts** Going to the library keeps me staying on track.
 
 
 
