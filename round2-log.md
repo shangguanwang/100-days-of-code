@@ -160,5 +160,18 @@
 
 **Thoughts** Going to the library keeps me staying on track.
 
+### Day 25: July 31, 2023
+
+**Today's Progress**: 
+- Grind 75: solved 1 Leetcode
+- Studied 1h on Frontend Master for the interview prep.
+
+### Day 26: Aug 1, 2023
+
+**Today's Progress**: 
+- Spent 2.5h on a new TypeScript Todo list Project
+
+**Thoughts** Started the day listening to the Self-taught Dev podcast, they talked about how important TypeScript is and I decided to build a new project to prove my skill.
+
 
 
