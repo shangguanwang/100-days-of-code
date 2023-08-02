@@ -173,5 +173,12 @@
 
 **Thoughts** Started the day listening to the Self-taught Dev podcast, they talked about how important TypeScript is and I decided to build a new project to prove my skill.
 
+### Day 27: Aug 2, 2023
+
+**Today's Progress**: 
+- Spent 2h on 3 Leetcode problems, Grind75 group discussion tonight
+
+**Thoughts** I got accepted into Collab Lab! Feels like winning lottery, I'm one step closer to my dream~
+
 
 
