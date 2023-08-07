@@ -180,5 +180,26 @@
 
 **Thoughts** I got accepted into Collab Lab! Feels like winning lottery, I'm one step closer to my dream~
 
+### Day 28: Aug 4, 2023
+
+**Today's Progress**: 
+- Continue working on the TypeScript Todolist
+
+### Day 29: Aug 5, 2023
+
+**Today's Progress**: 
+- Finished the Todo list app and deployed to Netlify, wrote Readme
+
+**Thoughts** Never imagined a Todo list needs so much logic before coding
+
+### Day 30: Aug 6, 2023
+
+**Today's Progress**: 
+- Grind 75 discussion Week4Q8 W5 Q1-3
+
+**Thoughts** Medium questions don't seem as scary as before.
+
+
+
 
 
