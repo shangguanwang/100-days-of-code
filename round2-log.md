@@ -199,7 +199,16 @@
 
 **Thoughts** Medium questions don't seem as scary as before.
 
+### Day 31-38: Aug 7 - 14, 2023
+Did one Leetcode medium per day
 
+### Day 39: Aug 15, 2023
+**Today's Progress**: 
+- Made my first pull request for the shopping list project
+- Reviewed 2 easy Grind75 questions
+- Applied for a two-day technical interview bootcamp
 
+**Thoughts** 
+Pair programming was fun.
 
 
