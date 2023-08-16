@@ -211,4 +211,10 @@ Did one Leetcode medium per day
 **Thoughts** 
 Pair programming was fun.
 
+### Day 40: Aug 16, 2023
+**Today's Progress**: 
+- Reviewed 6 easy Grind75 question. Group discussion on Week6 3-6
+
+
+
 
