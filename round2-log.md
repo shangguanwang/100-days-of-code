@@ -215,6 +215,14 @@ Pair programming was fun.
 **Today's Progress**: 
 - Reviewed 6 easy Grind75 question. Group discussion on Week6 3-6
 
+### Day 41: Aug 17, 2023
+**Today's Progress**: 
+- Starting a new React project of crypto dashboard, spent 0.5h on Layout
+- Reviewed 2 easy Grind75 questions and Tree data structure
+- Applied for 4 unpaid internships
+- Made a Linkedin Post about first week of Collab Lab
 
+**Thoughts** 
+I can do it. I have a feeling I'm about to land a job this year.
 
 
