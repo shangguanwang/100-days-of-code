@@ -230,5 +230,12 @@ I can do it. I have a feeling I'm about to land a job this year.
 - Update personal portfolio website to include the latest resume and added one new project
 - Reviewed 3 easy Grind75 questions and did 1 new medium question
 
+### Day 43: Aug 19, 2023
+**Today's Progress**: 
+- Finished the HTML part of "AddItem.jsx" for the shopping list project, need to work on submitting the form to Firebase
+- Reviewed 2 easy Grind75 questions and did a medium question
+- Applied for 1 volunteer position
+
+
 
 
