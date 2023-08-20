@@ -236,6 +236,11 @@ I can do it. I have a feeling I'm about to land a job this year.
 - Reviewed 2 easy Grind75 questions and did a medium question
 - Applied for 1 volunteer position
 
+### Day 44: Aug 20, 2023
+**Today's Progress**: 
+- Saved the FormData in a state for the shopping list project, weekly meeting tonight to discuss next week's two new issues
+- Solved 2 medium Grind75 questions, discussion group tonight for Week 6 !7-9, Week 7 Q1
+
 
 
 
