@@ -241,6 +241,15 @@ I can do it. I have a feeling I'm about to land a job this year.
 - Saved the FormData in a state for the shopping list project, weekly meeting tonight to discuss next week's two new issues
 - Solved 2 medium Grind75 questions, discussion group tonight for Week 6 !7-9, Week 7 Q1
 
+### Day 45: Aug 21, 2023
+**Today's Progress**: 
+- Pushed commit to issue #4 on the shopping list project 2h
+- Applied for 3 jobs
+
+**Thoughts** 
+- Found a great podcast "The Junior Jobs Podcast"
+- Don't forget checked = {boolean} attribute in radio button <input>
+
 
 
 
