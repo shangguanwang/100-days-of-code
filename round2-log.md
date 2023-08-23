@@ -250,6 +250,12 @@ I can do it. I have a feeling I'm about to land a job this year.
 - Found a great podcast "The Junior Jobs Podcast"
 - Don't forget checked = {boolean} attribute in radio button <input>
 
+### Day 46: Aug 22, 2023
+**Today's Progress**: 
+- Improved accessibility on issue #4 on the shopping list project, and wrote the PR 2h
+- Did 1 new medium Leetcode question
 
+**Thoughts** 
+- Accessibility is a whole new subject to dive in. Learned so much from peer.
 
 
