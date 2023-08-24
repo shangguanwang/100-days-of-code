@@ -258,4 +258,15 @@ I can do it. I have a feeling I'm about to land a job this year.
 **Thoughts** 
 - Accessibility is a whole new subject to dive in. Learned so much from peer.
 
+### Day 47: Aug 23, 2023
+**Today's Progress**: 
+- Code review on Issue #3
+- Did 1 new medium Leetcode question, Grind75 discussion on Week 7 Q2-5
+
+**Thoughts** 
+- Shifting focus from Leetcode to React interview prep now.
+
+### Day 48: Aug 24, 2023
+**Today's Progress**: 
+- Applied for 3 local jobs
 
