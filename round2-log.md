@@ -269,4 +269,12 @@ I can do it. I have a feeling I'm about to land a job this year.
 ### Day 48: Aug 24, 2023
 **Today's Progress**: 
 - Applied for 3 local jobs
+- Did 1 leetcode medium
+
+### Day 49: Aug 25, 2023
+**Today's Progress**: 
+- Applied for 3 jobs
+- Did a networking call and had more ideas on how to apply for startup jobs
+- Solved issue #6 filter list item - 0.75h
+- Added an "Achievements" section to the personal website
 
