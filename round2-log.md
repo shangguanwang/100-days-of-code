@@ -278,3 +278,14 @@ I can do it. I have a feeling I'm about to land a job this year.
 - Solved issue #6 filter list item - 0.75h
 - Added an "Achievements" section to the personal website
 
+### Day 50: Aug 27, 2023
+**Today's Progress**: 
+- Did 2 new Leetcode medium, Grind75 discussion on Week 7 Q7 and Week 8 Q1-3
+- Group call on the shopping list app, did our first retrospective
+
+### Day 51: Aug 28, 2023
+**Today's Progress**: 
+- Prep 7 frontend interview questions
+- Applied for 1 unpaid internship
+- Pair programming on issue #6 of the shopping list item
+
