@@ -287,5 +287,15 @@ I can do it. I have a feeling I'm about to land a job this year.
 **Today's Progress**: 
 - Prep 7 frontend interview questions
 - Applied for 1 unpaid internship
-- Pair programming on issue #6 of the shopping list item
+- Pair programming on issue #6 of the shopping list project
+
+### Day 52: Aug 29, 2023
+**Today's Progress**: 
+- Completed peer code review on issue #5 of the shopping list project
+- Made improvements on issue #6 based on peers' feedback
+
+### Day 53: Aug 30, 2023
+**Today's Progress**: 
+- Did 2 Leetcode medium questions, Grind75 discussion on Week 8 
+- Applied for 2 startup jobs
 
