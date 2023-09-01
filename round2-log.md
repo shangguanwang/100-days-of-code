@@ -299,3 +299,9 @@ I can do it. I have a feeling I'm about to land a job this year.
 - Did 2 Leetcode medium questions, Grind75 discussion on Week 8 
 - Applied for 2 startup jobs
 
+### Day 54: Aug 31, 2023
+**Today's Progress**: 
+- Did 1 Leetcode medium
+- Sent DM to a startup founder
+- Passed apprenticeship interview
+
