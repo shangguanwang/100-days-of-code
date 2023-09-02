@@ -305,3 +305,10 @@ I can do it. I have a feeling I'm about to land a job this year.
 - Sent DM to a startup founder
 - Passed apprenticeship interview
 
+### Day 55: Sep 01, 2023
+**Today's Progress**: 
+- Starting my first very big project FlowFi, a financial dashboard to track all your assets, debt, income, and expenses! Coded for 5 hours straight, super excited
+
+### Day 56: Sep 02, 2023
+**Today's Progress**: 
+- Continue the FlowFi project, added assets table
