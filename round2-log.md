@@ -316,17 +316,20 @@ I can do it. I have a feeling I'm about to land a job this year.
 ### Day 57: Sep 03, 2023
 **Today's Progress**: 
 - Continue the FlowFi project, create landing page
-
-### Day 58: Sep 04, 2023
-**Today's Progress**: 
 - Did 1 Leetcode, finish Grind75 discussion 🎉
 
-### Day 59: Sep 05, 2023
+### Day 58: Sep 04, 2023
 **Today's Progress**: 
 - Continue the FlowFi project, create the Register page and refactored the code to share the common layout between two landing pages
 - Solved half of Issue #8 for the shopping list project
 
-### Day 60: Sep 06, 2023
+### Day 59: Sep 05, 2023
 **Today's Progress**: 
 - Finish Issue #8 and peer review for the shopping list project
-- Starting a new React course on Udemy to test my knowledge and brush up some concepts
+- Starting a new React course on Udemy to test my knowledge and brush up on some concepts
+
+### Day 60: Sep 06, 2023
+**Today's Progress**: 
+- peer review the bug for the shopping list project
+- Continue React Udemy course and complete 2 small projects
+
