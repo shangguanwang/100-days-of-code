@@ -333,3 +333,7 @@ I can do it. I have a feeling I'm about to land a job this year.
 - peer review the bug for the shopping list project
 - Continue React Udemy course and complete 2 small projects
 
+### Day 61: Sep 07, 2023
+**Today's Progress**: 
+- Found a new tech job site called Dice, applied for 6 local React jobs
+- Study Redux for an hour
