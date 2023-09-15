@@ -337,3 +337,20 @@ I can do it. I have a feeling I'm about to land a job this year.
 **Today's Progress**: 
 - Found a new tech job site called Dice, applied for 6 local React jobs
 - Study Redux for an hour
+
+### Day 62-65: Sep 08-11, 2023
+**Today's Progress**: 
+- Did my first take-home challenge by creating an event page
+
+### Day 66: Sep 12, 2023
+**Today's Progress**: 
+- Work on Issue #9 of the shopping list app
+
+### Day 67: Sep 13, 2023
+**Today's Progress**: 
+- Exploring Toastify library for alert messages
+
+### Day 68: Sep 14, 2023
+**Today's Progress**: 
+- Going back to the personal finance dashboard project, create a Redux slice to manage AssetsData globally, connect assets Pie Chart with AssetsData, and refactored the firebase addData and getData code to store both assets and debts sub-collection.
+- Peer Reviewed Issue #10 for the shopping list app
