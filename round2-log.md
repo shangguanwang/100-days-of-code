@@ -354,3 +354,25 @@ I can do it. I have a feeling I'm about to land a job this year.
 **Today's Progress**: 
 - Going back to the personal finance dashboard project, create a Redux slice to manage AssetsData globally, connect assets Pie Chart with AssetsData, and refactored the firebase addData and getData code to store both assets and debts sub-collection.
 - Peer Reviewed Issue #10 for the shopping list app
+
+## Day 69: Sep 15, 2023
+**Today's Progress**: 
+- Complete "Edit and Delete Asset" functionality for the personal finance dashboard project
+
+## Day 70: Sep 16, 2023
+**Today's Progress**: 
+- Create "Debt" view and complete functionality for the personal finance dashboard project
+- Fixed a bug for Issue #9 for the shopping list app
+
+## Day 71: Sep 17, 2023
+**Today's Progress**: 
+- Create "Goals" view and complete functionality for the personal finance dashboard project
+- Weekly demo for the shopping list app project
+
+## Day 72: Sep 18, 2023
+**Today's Progress**: 
+- Create "user login and logout" functionality for the personal finance dashboard project
+- Complete sorting item logic for the shopping list app Issue #12
+
+**Thoughts** 
+I was intimated by the user authentication functionality but turns out Firebase authentication is super easy to implement and the documentation is very clear.
