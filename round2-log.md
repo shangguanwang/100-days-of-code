@@ -373,6 +373,7 @@ I can do it. I have a feeling I'm about to land a job this year.
 **Today's Progress**: 
 - Create "user login and logout" functionality for the personal finance dashboard project
 - Complete sorting item logic for the shopping list app Issue #12
+- Rewrite resume with a new Latex template, update the resume link in personal website
 
 **Thoughts** 
 I was intimated by the user authentication functionality but turns out Firebase authentication is super easy to implement and the documentation is very clear.
