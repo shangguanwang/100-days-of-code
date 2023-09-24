@@ -377,3 +377,24 @@ I can do it. I have a feeling I'm about to land a job this year.
 
 **Thoughts** 
 I was intimated by the user authentication functionality but turns out Firebase authentication is super easy to implement and the documentation is very clear.
+
+## Day 73: Sep 19, 2023
+**Today's Progress**: 
+- Connect register page with firebase authentication
+  
+## Day 74: Sep 20, 2023
+**Today's Progress**: 
+- Finish Issue #12 sorting shopping list items for the Collab lab project, created PR
+  
+## Day 75: Sep 21, 2023
+**Today's Progress**: 
+- Set up the store project and create page structure
+
+## Day 76: Sep 22, 2023
+**Today's Progress**: 
+- Create login page functionality for the store project
+  
+## Day 77: Sep 23, 2023
+**Today's Progress**: 
+- Create register page functionality for the store project
+- Conquer my first merge conflict! Felt like walking a slim ice for the first time.
