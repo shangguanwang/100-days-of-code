@@ -406,5 +406,10 @@ I was intimated by the user authentication functionality but turns out Firebase 
 
 ## Day 79: Sep 25, 2023
 **Today's Progress**: 
-- create Toggle theme, Landing page and About page for the store project
+- Create Toggle theme, Landing page and About page for the store project
 
+## Day 80: Sep 26, 2023
+**Today's Progress**: 
+- Finish Udemy axios learning module
+- Create axios data loader and FeaturedProducts view for the store project
+- get started on the shopping list design
