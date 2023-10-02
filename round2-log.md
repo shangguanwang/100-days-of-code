@@ -413,3 +413,31 @@ I was intimated by the user authentication functionality but turns out Firebase 
 - Finish Udemy axios learning module
 - Create axios data loader and FeaturedProducts view for the store project
 - get started on the shopping list design
+
+## Day 81: Sep 27, 2023
+**Today's Progress**: 
+- Create Single Product page for the store project
+- continue working on the shopping list design
+
+## Day 82: Sep 28, 2023
+**Today's Progress**: 
+- Edit Readme to add tech stack
+- continue working on the shopping list design, fixed a bug
+
+## Day 83: Sep 29, 2023
+**Today's Progress**: 
+- Create Products page for the store project
+- continue working on the shopping list design
+
+## Day 84: Sep 30, 2023
+**Today's Progress**: 
+- Create Product Filters for the store project
+
+## Day 85: Oct 1, 2023
+**Today's Progress**: 
+- Continue working on Product Filters for the store project
+- Collab Lab Design Review call with Mark, and weekly sync call with mentors
+
+## Day 86: Oct 2, 2023
+**Today's Progress**: 
+- Fix the Modal z-index bug and add Logout feature for the shopping list project, also add a checked item count display
