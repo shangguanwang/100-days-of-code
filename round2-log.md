@@ -441,3 +441,41 @@ I was intimated by the user authentication functionality but turns out Firebase 
 ## Day 86: Oct 2, 2023
 **Today's Progress**: 
 - Fix the Modal z-index bug and add Logout feature for the shopping list project, also add a checked item count display
+
+## Day 87: Oct 3, 2023
+**Today's Progress**: 
+- Continue working on Product filters functionality by passing params to customFetch for the store project
+
+## Day 88: Oct 4, 2023
+**Today's Progress**: 
+- Add pagination for the store project
+- Add strike-through for the shopping list app based on user feedback
+
+## Day 89: Oct 5, 2023
+**Today's Progress**: 
+- Set up Redux and Toastify for the store project
+- Add About page to guide users for the shopping list app
+
+## Day 90: Oct 6, 2023
+**Today's Progress**: 
+- Add single product to cart for the store project
+
+## Day 91: Oct 7, 2023
+**Today's Progress**: 
+- Finalize "add to cart" functionality for the store project
+- Add tech badges in Readme for the shopping list app
+
+## Day 92: Oct 8, 2023
+**Today's Progress**: 
+- Change button color contrast to meet accessibility requirement for the shopping list app
+- Finish final demo for the shopping list app 🎉
+
+## Day 93: Oct 9, 2023
+**Today's Progress**: 
+- Improve Linkedin
+- Create a new blog post: -[A Quick Accessibility Checklist for Frontend Developers](https://dev.to/shangguanwang/a-quick-accessibility-checklist-for-frontend-developers-1d56)
+- Post about the finalized shopping list project on Linkedin
+
+## Day 94: Oct 10, 2023
+**Today's Progress**: 
+- Add Experience tab on portfolio website, add BerryCart under project section, update Favicon, and make other improvements.
