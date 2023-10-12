@@ -479,3 +479,8 @@ I was intimated by the user authentication functionality but turns out Firebase 
 ## Day 94: Oct 10, 2023
 **Today's Progress**: 
 - Add Experience tab on portfolio website, add BerryCart under project section, update Favicon, and make other improvements.
+
+## Day 95: Oct 11, 2023
+**Today's Progress**: 
+- Add BerryCart details page on portfolio website
+- Internship: Cloned Bitbucket repo and set up to run on local computer
