@@ -484,3 +484,8 @@ I was intimated by the user authentication functionality but turns out Firebase 
 **Today's Progress**: 
 - Add BerryCart details page on portfolio website
 - Internship: Cloned Bitbucket repo and set up to run on local computer
+
+## Day 96: Oct 12, 2023
+**Today's Progress**: 
+- Complete "clear cart and edit item" functionality for the store project
+
