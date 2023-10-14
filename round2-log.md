@@ -489,3 +489,6 @@ I was intimated by the user authentication functionality but turns out Firebase 
 **Today's Progress**: 
 - Complete "clear cart and edit item" functionality for the store project
 
+## Day 97: Oct 13, 2023
+**Today's Progress**: 
+- Add tooltip to personal website
