@@ -489,6 +489,19 @@ I was intimated by the user authentication functionality but turns out Firebase 
 **Today's Progress**: 
 - Complete "clear cart and edit item" functionality for the store project
 
-## Day 97: Oct 13, 2023
+## Day 97: Oct 16, 2023
 **Today's Progress**: 
-- Add tooltip to personal website
+- Prep for behavioral interviews
+
+## Day 98: Oct 17, 2023
+**Today's Progress**: 
+- Completed take-home assignment at Career Lab
+  
+## Day 99: Oct 18, 2023
+**Today's Progress**: 
+- Reviewed 1 Leetcode question
+
+## Day 100: Oct 19, 2023
+**Today's Progress**: 
+- Did one behavior interview and one technical interview with Career Lab mentors
+- Job application x 1
