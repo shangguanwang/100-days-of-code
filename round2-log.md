@@ -1,4 +1,5 @@
 # 100 Days Of Code - Round 2 Log
+From Jun 30, 2023 till Oct 19, 2023
 
 ### Day 1: Jun 30, 2023
 
