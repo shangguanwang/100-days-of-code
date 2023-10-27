@@ -31,3 +31,14 @@ Started on Oct 20, 2023.
 - Add favicon to the NFT marketplace project
 
 **Thoughts:** Time to learn some backend
+
+## Day 7: Oct 26, 2023
+**Today's Progress**: 
+- Watch some videos about async JS on Frontend Masters
+- Start a new MERN-bookstore project
+
+## Day 8: Oct 27, 2023
+**Today's Progress**: 
+- Fix a bug for Swoovy internship
+
+**Thoughts:** Fixing bugs feels like being a detective, it was fun.
