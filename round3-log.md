@@ -42,3 +42,11 @@ Started on Oct 20, 2023.
 - Fix a bug for Swoovy internship
 
 **Thoughts:** Fixing bugs feels like being a detective, it was fun.
+
+## Day 9-10: Oct 28-29, 2023
+**Today's Progress**: 
+- Learning express by doing the bookstore-MERN project
+
+## Day 11-12: Oct 30-31, 2023
+**Today's Progress**: 
+- Finish Udemy "React Query" module
