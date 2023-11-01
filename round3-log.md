@@ -50,3 +50,7 @@ Started on Oct 20, 2023.
 ## Day 11-12: Oct 30-31, 2023
 **Today's Progress**: 
 - Finish Udemy "React Query" module
+
+## Day 13: Nov 1, 2023
+**Today's Progress**: 
+- Starting a new Udemy course on AWS cloud practitioner, finish 3 modules (15%)
