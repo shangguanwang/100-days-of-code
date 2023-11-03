@@ -54,3 +54,9 @@ Started on Oct 20, 2023.
 ## Day 13: Nov 1, 2023
 **Today's Progress**: 
 - Starting a new Udemy course on AWS cloud practitioner, finish 3 modules (15%)
+
+## Day 14: Nov 2, 2023
+**Today's Progress**: 
+- AWS cloud practitioner, finish 2 modules (25%)
+- Updated Personal Website with the internship experience
+- Internship: Opened a new PR to fix CSS styling
