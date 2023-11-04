@@ -58,9 +58,10 @@ Started on Oct 20, 2023.
 ## Day 14: Nov 2, 2023
 **Today's Progress**: 
 - AWS cloud practitioner, finish 2 modules (25%)
-- Updated Personal Website with the internship experience
-- Internship: Opened a new PR to fix CSS styling
+- Updated personal Website with the internship experience
+- Internship: Opened a new PR to fix CSS styling and get merged
 
 ## Day 15: Nov 3, 2023
 **Today's Progress**: 
-- AWS cloud practitioner, finish 2 modules (35%)
+- AWS cloud practitioner, finish 3 modules (40%)
+- Update personal website with skill categories
