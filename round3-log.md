@@ -69,3 +69,8 @@ Started on Oct 20, 2023.
 ## Day 16: Nov 4, 2023
 **Today's Progress**: 
 - AWS cloud practitioner, finish 2 modules (50%). Did practice exam and requested exam voucher
+- Add Google Analytics to personal website
+
+## Day 17: Nov 5, 2023
+- AWS cloud practitioner, finish 3 modules (60%)
+
