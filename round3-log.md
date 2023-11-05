@@ -72,5 +72,5 @@ Started on Oct 20, 2023.
 - Add Google Analytics to personal website
 
 ## Day 17: Nov 5, 2023
-- AWS cloud practitioner, finish 3 modules (60%)
+- AWS cloud practitioner, finish 3 modules (65%)
 
