@@ -73,4 +73,7 @@ Started on Oct 20, 2023.
 
 ## Day 17: Nov 5, 2023
 - AWS cloud practitioner, finish 3 modules (65%)
+- Open Source Project: created a new PR
+
+**Thoughts:** first experience writing PUT request and test script, feels good learning something new on the backend
 
