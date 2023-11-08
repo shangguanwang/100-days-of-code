@@ -77,3 +77,8 @@ Started on Oct 20, 2023.
 
 **Thoughts:** first experience writing PUT request and test script, feels good learning something new on the backend
 
+## Day 18: Nov 6, 2023
+- AWS cloud practitioner, finish 2 modules (80%)
+
+## Day 19: Nov 7, 2023
+- Internship: created a new PR, completed refactor and UI modification of dashboard top card section
