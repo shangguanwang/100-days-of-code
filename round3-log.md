@@ -82,3 +82,6 @@ Started on Oct 20, 2023.
 
 ## Day 19: Nov 7, 2023
 - Internship: created a new PR, completed refactor and UI modification of dashboard top card section
+
+## Day 20: Nov 8, 2023
+- AWS cloud practitioner: registered for the exam, finish 1.3 modules (90%)
