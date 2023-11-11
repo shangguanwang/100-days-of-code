@@ -85,3 +85,10 @@ Started on Oct 20, 2023.
 
 ## Day 20: Nov 8, 2023
 - AWS cloud practitioner: registered for the exam, finish 1.3 modules (90%)
+
+## Day 21: Nov 9, 2023
+- AWS cloud practitioner: finish 1 module (95%)
+
+## Day 22: Nov 10, 2023
+- AWS cloud practitioner: finish 100% of the course
+- Internship: finally figured out how to set up unit testing for React component using Enzyme and Jest
