@@ -92,3 +92,9 @@ Started on Oct 20, 2023.
 ## Day 22: Nov 10, 2023
 - AWS cloud practitioner: finish 100% of the course
 - Internship: finally figured out how to set up unit testing for React component using Enzyme and Jest
+
+## Day 23: Nov 11, 2023
+- Personal Website: made some changes according to Resume Review Feedback, update social icons svg
+
+## Day 24: Nov 12, 2023
+- AWS cloud practitioner: did 1 practice exam and reviewed answers
