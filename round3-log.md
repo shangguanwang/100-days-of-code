@@ -97,4 +97,7 @@ Started on Oct 20, 2023.
 - Personal Website: made some changes according to Resume Review Feedback, update social icons svg
 
 ## Day 24: Nov 12, 2023
-- AWS cloud practitioner: did 1 practice exam and reviewed answers
+- AWS cloud practitioner: did 1 practice exam and review answers
+
+## Day 25: Nov 13, 2023
+- AWS cloud practitioner: did practice exam #1 and #2 and review answers for #1.
