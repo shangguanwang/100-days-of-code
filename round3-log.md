@@ -102,6 +102,6 @@ Started on Oct 20, 2023.
 ## Day 25: Nov 13, 2023
 - AWS cloud practitioner: did practice exam #1 and #2 and review answers for #1.
 
-## Day 25: Nov 14, 2023
+## Day 26: Nov 14, 2023
 - AWS cloud practitioner: reviewed 60 questions for an hour, reviewed Q1-25 from practice exam #2.
 - Internship: made one commit to filter EventsData by cause categories.
