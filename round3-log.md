@@ -111,3 +111,9 @@ Started on Oct 20, 2023.
 
 ## Day 28: Nov 16, 2023
 - AWS cloud practitioner: finish the Youtube video. Did a new mock exam.
+
+## Day 29: Nov 17, 2023
+- AWS cloud practitioner: reviewed all study notes and did one practice exam.
+
+## Day 30: Nov 18, 2023
+- AWS cloud practitioner: passed the exam!
