@@ -117,3 +117,13 @@ Started on Oct 20, 2023.
 
 ## Day 30: Nov 18, 2023
 - AWS cloud practitioner: passed the exam!
+
+## Day 31: Nov 20, 2023
+- Starting a new gym website project
+
+## Day 32: Nov 21, 2023
+- Learn how to integrate Google Map to the Gym website
+
+## Day 33: Nov 27, 2023
+- Internship: Resolve merge conflict
+- Open Source Project: cleanup the example code and rebase based on mentor feedback
