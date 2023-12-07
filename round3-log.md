@@ -127,3 +127,6 @@ Started on Oct 20, 2023.
 ## Day 33: Nov 27, 2023
 - Internship: Resolve merge conflict
 - Open Source Project: cleanup the example code and rebase based on mentor feedback
+
+## Day 34: Dec 6, 2023
+- Internship: spend 2 hours on the new ticket to add a take action section using existing card component
