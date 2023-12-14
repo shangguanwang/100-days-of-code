@@ -130,3 +130,11 @@ Started on Oct 20, 2023.
 
 ## Day 34: Dec 6, 2023
 - Internship: spend 2 hours on the new ticket to add a take action section using existing card component
+
+## Day 35: Dec 12, 2023
+- Internship: Changed the router URL for better User Experience
+- Gym personal project: pick back up where I left, create a contact form
+
+## Day 36: Dec 13, 2023
+- Networking: attend a local meetup event
+- Gym personal project: complete Footer section
