@@ -138,3 +138,12 @@ Started on Oct 20, 2023.
 ## Day 36: Dec 13, 2023
 - Networking: attend a local meetup event
 - Gym personal project: complete Footer section
+
+## Day 37: Dec 19, 2023
+- Internship: pair program to fix a bug: couldn't toggle between admin and member view
+
+## Day 38: Dec 21, 2023
+- Had a live coding interview, totally bombed it
+
+## Day 39: Dec 25, 2023
+- Study 0.5h Scrimba on the API module
