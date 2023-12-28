@@ -152,5 +152,5 @@ Started on Oct 20, 2023.
 - Internship: rebase open ticket with the dev branch, found a new issue
 
 ## Day 41: Dec 27, 2023
-- Study 1h Scrimba, completed the 2nd unit in the API module
+- Study 2h Scrimba, completed the 2nd unit in the API module and reviewed html/css basics
 - Spent 2h completing the Solo Project: Color Scheme Generator
