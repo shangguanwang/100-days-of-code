@@ -154,3 +154,13 @@ Started on Oct 20, 2023.
 ## Day 41: Dec 27, 2023
 - Study 2h Scrimba, completed the 2nd unit in the API module and reviewed html/css basics
 - Spent 2h completing the Solo Project: Color Scheme Generator
+
+## Day 42: Dec 28, 2023
+- Study 1h Scrimba, complete 1 CSS module
+
+## Day 43: Dec 29, 2023
+- Study 1h Scrimba, complete 1 CSS module
+
+## Day 44: Dec 30, 2023
+- Study 0.5 Scrimba, complete half CSS module
+- Open source PR got merged 🎉
