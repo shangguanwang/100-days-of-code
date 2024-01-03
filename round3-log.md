@@ -164,3 +164,7 @@ Started on Oct 20, 2023.
 ## Day 44: Dec 30, 2023
 - Study 0.5 Scrimba, complete half CSS module
 - Open source PR got merged 🎉
+
+## Day 45: Jan 02, 2024
+- Study 0.5 Scrimba, complete module 2 Web Dev Basics
+- Internship: had weekly sync
