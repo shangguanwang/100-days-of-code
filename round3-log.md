@@ -168,3 +168,9 @@ Started on Oct 20, 2023.
 ## Day 45: Jan 02, 2024
 - Study 0.5 Scrimba, complete module 2 Web Dev Basics
 - Internship: had weekly sync
+
+## Day 46: Jan 03, 2024
+- Internship: worked on Ticket #52 routes for 2h to remove /user/
+
+**Lesson learned:**
+RTFM works. When I got stuck, reading the Umi routes documentation helped a lot.
