@@ -174,3 +174,6 @@ Started on Oct 20, 2023.
 
 **Lesson learned:**
 RTFM works. When I got stuck, reading the Umi routes documentation helped a lot.
+
+## Day 47: Jan 24, 2024
+- Scrimba 1h: finish module 2
