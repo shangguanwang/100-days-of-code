@@ -180,3 +180,6 @@ RTFM works. When I got stuck, reading the Umi routes documentation helped a lot.
 
 ## Day 48: Jan 25, 2024
 - Scrimba 3h: finish module 3, complete random password generator Solo project
+
+## Day 49: Jan 29, 2024
+- Scrimba: start module 4 Essential CSS concept
